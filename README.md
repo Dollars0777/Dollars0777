@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Rupesh Pailkar
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analysis
-- 📫 How to reach me via Linked In
+
